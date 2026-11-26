@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "matrixglass:block/powered_glass"
+    }
+  }
+}

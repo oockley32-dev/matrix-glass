@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "matrixglass:block/payphone",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "matrixglass:block/payphone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "matrixglass:block/payphone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "matrixglass:block/payphone",
+      "y": 270
+    }
+  }
+}

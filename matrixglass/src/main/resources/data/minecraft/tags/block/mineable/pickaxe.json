@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "matrixglass:glass_monolith",
+    "matrixglass:payphone",
+    "matrixglass:powered_glass",
+    "matrixglass:projector",
+    "matrixglass:terminal"
+  ]
+}

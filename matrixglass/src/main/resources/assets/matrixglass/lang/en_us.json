@@ -1,0 +1,17 @@
+{
+  "itemGroup.matrixglass": "Matrix Glass",
+  "block.matrixglass.glass_monolith": "Glass Monolith",
+  "block.matrixglass.payphone": "Payphone",
+  "item.matrixglass.red_pill": "Red Pill",
+  "item.matrixglass.blue_pill": "Blue Pill",
+  "effect.matrixglass.matrix_vision": "Matrix Vision",
+  "effect.matrixglass.bullet_time": "Bullet Time",
+  "subtitles.matrixglass.phone_ring": "Payphone rings",
+  "subtitles.matrixglass.glitch": "Reality glitches",
+  "subtitles.matrixglass.wake_up": "Waking up",
+  "subtitles.matrixglass.bullet_time": "Time bends",
+  "subtitles.matrixglass.monolith_hum": "Monolith hums",
+  "block.matrixglass.powered_glass": "Powered Glass",
+  "block.matrixglass.projector": "Matrix Projector",
+  "block.matrixglass.terminal": "Matrix Terminal"
+}

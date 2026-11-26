@@ -1,0 +1,32 @@
+{
+  "phone_ring": {
+    "sounds": [
+      "matrixglass:phone_ring"
+    ],
+    "subtitle": "subtitles.matrixglass.phone_ring"
+  },
+  "glitch": {
+    "sounds": [
+      "matrixglass:glitch"
+    ],
+    "subtitle": "subtitles.matrixglass.glitch"
+  },
+  "wake_up": {
+    "sounds": [
+      "matrixglass:wake_up"
+    ],
+    "subtitle": "subtitles.matrixglass.wake_up"
+  },
+  "bullet_time": {
+    "sounds": [
+      "matrixglass:bullet_time"
+    ],
+    "subtitle": "subtitles.matrixglass.bullet_time"
+  },
+  "monolith_hum": {
+    "sounds": [
+      "matrixglass:monolith_hum"
+    ],
+    "subtitle": "subtitles.matrixglass.monolith_hum"
+  }
+}

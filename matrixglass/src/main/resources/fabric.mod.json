@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "matrixglass",
+  "version": "${version}",
+  "name": "Matrix Glass",
+  "description": "Matrix-styled G.L.A.S.S.-style glass screens, digital rain, glass shards, bullet time, red pills and a payphone out.",
+  "authors": [
+    "You"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.matrixglass.MatrixGlass"
+    ],
+    "client": [
+      "dev.matrixglass.client.MatrixGlassClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "imm_ptl_core": "*"
+  }
+}

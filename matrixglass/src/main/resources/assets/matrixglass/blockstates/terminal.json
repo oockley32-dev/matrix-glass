@@ -1,0 +1,132 @@
+{
+  "variants": {
+    "channel=0,facing=north": {
+      "model": "matrixglass:block/terminal",
+      "y": 0
+    },
+    "channel=0,facing=east": {
+      "model": "matrixglass:block/terminal",
+      "y": 90
+    },
+    "channel=0,facing=south": {
+      "model": "matrixglass:block/terminal",
+      "y": 180
+    },
+    "channel=0,facing=west": {
+      "model": "matrixglass:block/terminal",
+      "y": 270
+    },
+    "channel=1,facing=north": {
+      "model": "matrixglass:block/terminal",
+      "y": 0
+    },
+    "channel=1,facing=east": {
+      "model": "matrixglass:block/terminal",
+      "y": 90
+    },
+    "channel=1,facing=south": {
+      "model": "matrixglass:block/terminal",
+      "y": 180
+    },
+    "channel=1,facing=west": {
+      "model": "matrixglass:block/terminal",
+      "y": 270
+    },
+    "channel=2,facing=north": {
+      "model": "matrixglass:block/terminal",
+      "y": 0
+    },
+    "channel=2,facing=east": {
+      "model": "matrixglass:block/terminal",
+      "y": 90
+    },
+    "channel=2,facing=south": {
+      "model": "matrixglass:block/terminal",
+      "y": 180
+    },
+    "channel=2,facing=west": {
+      "model": "matrixglass:block/terminal",
+      "y": 270
+    },
+    "channel=3,facing=north": {
+      "model": "matrixglass:block/terminal",
+      "y": 0
+    },
+    "channel=3,facing=east": {
+      "model": "matrixglass:block/terminal",
+      "y": 90
+    },
+    "channel=3,facing=south": {
+      "model": "matrixglass:block/terminal",
+      "y": 180
+    },
+    "channel=3,facing=west": {
+      "model": "matrixglass:block/terminal",
+      "y": 270
+    },
+    "channel=4,facing=north": {
+      "model": "matrixglass:block/terminal",
+      "y": 0
+    },
+    "channel=4,facing=east": {
+      "model": "matrixglass:block/terminal",
+      "y": 90
+    },
+    "channel=4,facing=south": {
+      "model": "matrixglass:block/terminal",
+      "y": 180
+    },
+    "channel=4,facing=west": {
+      "model": "matrixglass:block/terminal",
+      "y": 270
+    },
+    "channel=5,facing=north": {
+      "model": "matrixglass:block/terminal",
+      "y": 0
+    },
+    "channel=5,facing=east": {
+      "model": "matrixglass:block/terminal",
+      "y": 90
+    },
+    "channel=5,facing=south": {
+      "model": "matrixglass:block/terminal",
+      "y": 180
+    },
+    "channel=5,facing=west": {
+      "model": "matrixglass:block/terminal",
+      "y": 270
+    },
+    "channel=6,facing=north": {
+      "model": "matrixglass:block/terminal",
+      "y": 0
+    },
+    "channel=6,facing=east": {
+      "model": "matrixglass:block/terminal",
+      "y": 90
+    },
+    "channel=6,facing=south": {
+      "model": "matrixglass:block/terminal",
+      "y": 180
+    },
+    "channel=6,facing=west": {
+      "model": "matrixglass:block/terminal",
+      "y": 270
+    },
+    "channel=7,facing=north": {
+      "model": "matrixglass:block/terminal",
+      "y": 0
+    },
+    "channel=7,facing=east": {
+      "model": "matrixglass:block/terminal",
+      "y": 90
+    },
+    "channel=7,facing=south": {
+      "model": "matrixglass:block/terminal",
+      "y": 180
+    },
+    "channel=7,facing=west": {
+      "model": "matrixglass:block/terminal",
+      "y": 270
+    }
+  }
+}
